@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Crawlora Streaming Fragmentation Index: where the most-popular US titles stream"
+abstract: >-
+  Per-title streaming availability for the 100 most-popular US titles and a ~5,000-title
+  cross-section (June 2026): which subscription services carry each title, exclusivity,
+  monetization (subscription / ads / rent-buy / cinema), and the number of subscriptions
+  (and dollars) needed to watch the popular catalog. Content is scattered across dozens of
+  services and most popular titles are exclusive to a single service.
+type: dataset
+authors:
+  - name: "Crawlora"
+    website: "https://crawlora.net"
+version: "1.0.0"
+date-released: "2026-06-17"
+license: CC-BY-4.0
+url: "https://crawlora.net/blog/streaming-fragmentation-2026"
+repository-code: "https://github.com/Crawlora-org/streaming-fragmentation-data"
+keywords:
+  - streaming
+  - SVOD
+  - catalog availability
+  - streaming fragmentation
+  - exclusivity
+  - JustWatch
+  - cord cutting

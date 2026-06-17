@@ -1,0 +1,101 @@
+id,title,year,type,num_subscription_services,has_subscription,exclusive,rent_buy_only,cinema_only,subscription_services,monetization_types
+tm1486587,Project Hail Mary,2026,movie,0,false,false,false,false,,BUY|CINEMA|RENT
+tm1674759,Obsession,2026,movie,0,false,false,false,true,,CINEMA
+tm1593183,Backrooms,2026,movie,0,false,false,false,true,,CINEMA
+tm1598352,Send Help,2026,movie,2,true,false,false,false,Disney+|Hulu,BUY|CINEMA|FLATRATE|RENT
+tm1925040,Hokum,2026,movie,0,false,false,false,false,,BUY|CINEMA|RENT
+tm1602729,"Good Luck, Have Fun, Don't Die",2026,movie,0,false,false,false,false,,BUY|CINEMA|RENT
+tm1457585,The Super Mario Galaxy Movie,2026,movie,0,false,false,false,false,,BUY|CINEMA|RENT
+tm1978067,Tom Clancy's Jack Ryan: Ghost War,2026,movie,1,true,true,false,false,Amazon Prime Video,FLATRATE
+tm1941661,Remarkably Bright Creatures,2026,movie,1,true,true,false,false,Netflix,FLATRATE
+tm1520393,Hoppers,2026,movie,1,true,true,false,false,Disney+,BUY|CINEMA|FLATRATE|RENT
+tm1544080,The Housemaid,2025,movie,1,true,true,false,false,Starz,BUY|CINEMA|FLATRATE|RENT
+tm1526979,Disclosure Day,2026,movie,0,false,false,false,false,,BUY|CINEMA
+tm1453013,In the Grey,2026,movie,0,false,false,false,false,,BUY|CINEMA|RENT
+tm1610095,The Sheep Detectives,2026,movie,0,false,false,false,false,,BUY|CINEMA
+tm1436931,Michael,2026,movie,0,false,false,false,false,,BUY|CINEMA|RENT
+tm1856965,Over Your Dead Body,2026,movie,0,false,false,false,false,,BUY|CINEMA|RENT
+tm1591329,The Drama,2026,movie,0,false,false,false,false,,BUY|CINEMA|RENT
+tm1635677,The Devil Wears Prada 2,2026,movie,0,false,false,false,true,,CINEMA
+tm1645069,Ready or Not: Here I Come,2026,movie,0,false,false,false,false,,BUY|CINEMA|RENT
+tm1576989,Marty Supreme,2025,movie,1,true,true,false,false,Max,BUY|CINEMA|FLATRATE|RENT
+tm97234,Close Encounters of the Third Kind,1977,movie,2,true,false,false,false,Criterion Channel|Peacock,BUY|CINEMA|FLATRATE|RENT
+tm1875155,They Will Kill You,2026,movie,1,true,true,false,false,Max,BUY|CINEMA|FLATRATE|RENT
+tm1433295,Star Wars: The Mandalorian and Grogu,2026,movie,0,false,false,false,true,,CINEMA
+tm1459877,One Battle After Another,2025,movie,2,true,false,false,false,Amazon Prime Video|Max,BUY|CINEMA|FLATRATE|RENT
+tm32004,The Devil Wears Prada,2006,movie,4,true,false,false,false,AMC+|Disney+|Hulu|Max,BUY|FLATRATE|RENT
+tm1616046,Exit 8,2025,movie,0,false,false,true,false,,BUY|RENT
+tm1932581,Apex,2026,movie,1,true,true,false,false,Netflix,FLATRATE
+tm1458418,The Bride!,2026,movie,1,true,true,false,false,Max,BUY|CINEMA|FLATRATE|RENT
+tm1504418,Bugonia,2025,movie,1,true,true,false,false,Netflix,BUY|CINEMA|FLATRATE|RENT
+tm1542567,The Running Man,2025,movie,3,true,false,false,false,Amazon Prime Video|MGM+|Paramount+,BUY|CINEMA|FLATRATE|RENT
+tm1506526,Mortal Kombat II,2026,movie,0,false,false,false,false,,BUY|CINEMA|RENT
+tm1314959,The Ministry of Ungentlemanly Warfare,2024,movie,1,true,true,false,false,Peacock,ADS|BUY|CINEMA|FLATRATE|RENT
+tm1352761,Scream 7,2026,movie,1,true,true,false,false,Paramount+,BUY|CINEMA|FLATRATE|RENT
+tm1952326,Pressure,2026,movie,0,false,false,false,false,,BUY|CINEMA|RENT
+tm1656509,No Other Choice,2025,movie,2,true,false,false,false,Disney+|Hulu,BUY|CINEMA|FLATRATE|RENT
+tm1510509,Lee Cronin's The Mummy,2026,movie,0,false,false,false,false,,BUY|CINEMA|RENT
+tm2861790,The Crash,2026,movie,1,true,true,false,false,Netflix,FLATRATE
+tm1625454,The Punisher: One Last Kill,2026,movie,1,true,true,false,false,Disney+,FLATRATE
+tm1674486,Normal,2026,movie,0,false,false,false,false,,BUY|CINEMA|RENT
+tm1384752,Iron Lung,2026,movie,0,false,false,false,true,,CINEMA
+tm1942487,Ladies First,2026,movie,1,true,true,false,false,Netflix,FLATRATE
+tm1591341,Pillion,2025,movie,1,true,true,false,false,Max,BUY|CINEMA|FLATRATE|RENT
+tm2867265,Office Romance,2026,movie,1,true,true,false,false,Netflix,FLATRATE
+tm1673707,The Furious,2026,movie,0,false,false,false,false,,BUY|CINEMA
+tm1899901,Shelter,2026,movie,1,true,true,false,false,Starz,BUY|CINEMA|FLATRATE|RENT
+tm9008,Cape Fear,1991,movie,0,false,false,true,false,,BUY|RENT
+tm1276703,Nirvanna the Band the Show the Movie,2026,movie,0,false,false,true,false,,BUY|RENT
+tm157099,Interstellar,2014,movie,1,true,true,false,false,Paramount+,BUY|FLATRATE|RENT
+tm1663979,Dead Man's Wire,2026,movie,1,true,true,false,false,Netflix,BUY|CINEMA|FLATRATE|RENT
+tm1663575,Tuner,2026,movie,0,false,false,false,true,,CINEMA
+ts446463,Widow's Bay,2026,show,1,true,true,false,false,Apple TV+,FLATRATE
+ts381440,Spider-Noir,2026,show,1,true,true,false,false,Amazon Prime Video,ADS|FLATRATE
+ts404091,The Boroughs,2026,show,1,true,true,false,false,Netflix,FLATRATE
+ts175387,Off Campus,2026,show,1,true,true,false,false,Amazon Prime Video,ADS|FLATRATE
+ts287292,FROM,2022,show,1,true,true,false,false,MGM+,BUY|FLATRATE
+ts495715,Dutton Ranch,2026,show,1,true,true,false,false,Paramount+,BUY|FLATRATE|FREE
+ts78125,The Boys,2019,show,1,true,true,false,false,Amazon Prime Video,ADS|BUY|FLATRATE
+ts414509,Your Friends & Neighbors,2025,show,1,true,true,false,false,Apple TV+,FLATRATE|FREE
+ts87074,Euphoria,2019,show,1,true,true,false,false,Max,BUY|FLATRATE
+ts470832,Maximum Pleasure Guaranteed,2026,show,1,true,true,false,false,Apple TV+,FLATRATE|FREE
+ts459331,Cape Fear,2026,show,1,true,true,false,false,Apple TV+,FLATRATE|FREE
+ts418584,The Four Seasons,2025,show,1,true,true,false,false,Netflix,FLATRATE
+ts20233,Rick and Morty,2013,show,3,true,false,false,false,Disney+|Hulu|Max,ADS|BUY|FLATRATE
+ts287233,Hacks,2021,show,2,true,false,false,false,Amazon Prime Video|Max,ADS|BUY|FLATRATE|FREE
+ts419484,Margo's Got Money Troubles,2026,show,1,true,true,false,false,Apple TV+,FLATRATE|FREE
+ts433871,The Pitt,2025,show,1,true,true,false,false,Max,FLATRATE
+ts89431,For All Mankind,2019,show,1,true,true,false,false,Apple TV+,BUY|FLATRATE
+ts216539,Love Island,2019,show,4,true,false,false,false,Disney+|Hulu|Paramount+|Peacock,BUY|FLATRATE
+ts75269,Yellowstone,2018,show,1,true,true,false,false,Peacock,BUY|FLATRATE
+ts76847,The Terror,2018,show,3,true,false,false,false,AMC+|Amazon Prime Video|Shudder,ADS|BUY|FLATRATE|FREE
+ts421489,Paradise,2025,show,2,true,false,false,false,Disney+|Hulu,FLATRATE
+ts363990,Rivals,2024,show,2,true,false,false,false,Disney+|Hulu,FLATRATE
+ts429003,Star City,2026,show,1,true,true,false,false,Apple TV+,FLATRATE
+ts440297,Rooster,2026,show,1,true,true,false,false,Max,BUY|FLATRATE
+ts521198,World War II with Tom Hanks,2026,show,0,false,false,true,false,,ADS|BUY|FLATRATE|FREE
+ts7043,America's Got Talent,2006,show,1,true,true,false,false,Peacock,ADS|FLATRATE
+ts450685,The Beauty,2026,show,2,true,false,false,false,Disney+|Hulu,FLATRATE
+ts20974,The X-Files,1993,show,2,true,false,false,false,Disney+|Hulu,ADS|BUY|FAST|FLATRATE
+ts457704,Legends,2026,show,1,true,true,false,false,Netflix,FLATRATE
+ts454451,Lord of the Flies,2026,show,1,true,true,false,false,Netflix,FLATRATE
+ts296827,Interview with the Vampire,2022,show,3,true,false,false,false,AMC+|Amazon Prime Video|Netflix,ADS|BUY|FAST|FLATRATE|FREE
+ts480880,The Testaments,2026,show,2,true,false,false,false,Disney+|Hulu,FLATRATE
+ts455747,The Other Bennet Sister,2026,show,1,true,true,false,false,BritBox,FLATRATE
+ts20837,Outlander,2014,show,2,true,false,false,false,Netflix|Starz,ADS|BUY|FLATRATE
+ts6410,Doctor Who,2005,show,1,true,true,false,false,AMC+,BUY|FLATRATE|FREE
+ts446649,The Audacity,2026,show,2,true,false,false,false,AMC+|Amazon Prime Video,BUY|FLATRATE|FREE
+ts174637,Not Suitable for Work,2026,show,2,true,false,false,false,Disney+|Hulu,FLATRATE
+ts386460,A Knight of the Seven Kingdoms,2026,show,1,true,true,false,false,Max,BUY|FLATRATE
+ts296145,Beef,2023,show,1,true,true,false,false,Netflix,FLATRATE
+ts393161,Pluribus,2025,show,1,true,true,false,false,Apple TV+,FLATRATE
+ts22013,Mad Men,2007,show,2,true,false,false,false,AMC+|Max,ADS|BUY|FAST|FLATRATE
+ts438726,Half Man,2026,show,1,true,true,false,false,Max,BUY|FLATRATE
+ts21465,Supernatural,2005,show,2,true,false,false,false,Amazon Prime Video|Peacock,BUY|FLATRATE
+ts265779,Fallout,2024,show,1,true,true,false,false,Amazon Prime Video,ADS|BUY|FLATRATE
+ts379403,A Good Girl's Guide to Murder,2024,show,1,true,true,false,false,Netflix,BUY|FLATRATE
+ts6683,Battlestar Galactica,2004,show,1,true,true,false,false,Paramount+,ADS|BUY|FAST|FLATRATE
+ts6495,Criminal Minds,2005,show,4,true,false,false,false,Amazon Prime Video|Disney+|Hulu|Paramount+,BUY|FAST|FLATRATE
+ts526545,Alice and Steve,2026,show,2,true,false,false,false,Disney+|Hulu,FLATRATE
+ts329867,Landman,2024,show,1,true,true,false,false,Paramount+,BUY|FLATRATE
+ts529914,The Vampire Lestat,2026,show,1,true,true,false,false,AMC+,BUY|FAST|FLATRATE|FREE

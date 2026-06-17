@@ -1,0 +1,1231 @@
+{
+  "generatedNote": "collected via scripts/streaming-fragmentation-study.mjs",
+  "snapshotDate": "2026-06-17",
+  "country": "US",
+  "apiBase": "https://api.crawlora.net/api/v1",
+  "providerCount": 338,
+  "stats": {
+    "universe": {
+      "titles": 100,
+      "movies": 50,
+      "shows": 50,
+      "totalOffers": 1771
+    },
+    "fragmentation": {
+      "distinctOttServices": 14,
+      "streamableTitles": 74,
+      "streamablePct": 74,
+      "noSubscriptionTitles": 26,
+      "big4": {
+        "brands": [
+          "Netflix",
+          "Disney+",
+          "Max",
+          "Amazon Prime Video"
+        ],
+        "covers": 51,
+        "coversPct": 51
+      },
+      "servicesToCover": {
+        "p50": 3,
+        "p80": 6,
+        "p100": 11
+      },
+      "coverageCurve": [
+        {
+          "services": 1,
+          "lastAdded": "Disney+",
+          "covered": 15,
+          "coveredPct": 20.3
+        },
+        {
+          "services": 2,
+          "lastAdded": "Netflix",
+          "covered": 30,
+          "coveredPct": 40.5
+        },
+        {
+          "services": 3,
+          "lastAdded": "Max",
+          "covered": 42,
+          "coveredPct": 56.8
+        },
+        {
+          "services": 4,
+          "lastAdded": "Amazon Prime Video",
+          "covered": 51,
+          "coveredPct": 68.9
+        },
+        {
+          "services": 5,
+          "lastAdded": "Apple TV+",
+          "covered": 59,
+          "coveredPct": 79.7
+        },
+        {
+          "services": 6,
+          "lastAdded": "Paramount+",
+          "covered": 64,
+          "coveredPct": 86.5
+        },
+        {
+          "services": 7,
+          "lastAdded": "Peacock",
+          "covered": 68,
+          "coveredPct": 91.9
+        },
+        {
+          "services": 8,
+          "lastAdded": "Starz",
+          "covered": 70,
+          "coveredPct": 94.6
+        },
+        {
+          "services": 9,
+          "lastAdded": "AMC+",
+          "covered": 72,
+          "coveredPct": 97.3
+        },
+        {
+          "services": 10,
+          "lastAdded": "MGM+",
+          "covered": 73,
+          "coveredPct": 98.6
+        },
+        {
+          "services": 11,
+          "lastAdded": "BritBox",
+          "covered": 74,
+          "coveredPct": 100
+        }
+      ],
+      "setCoverOrder": [
+        "Disney+",
+        "Netflix",
+        "Max",
+        "Amazon Prime Video",
+        "Apple TV+",
+        "Paramount+",
+        "Peacock",
+        "Starz",
+        "AMC+",
+        "MGM+",
+        "BritBox"
+      ]
+    },
+    "exclusivity": {
+      "exclusiveTitles": 51,
+      "exclusivePctOfAll": 51,
+      "exclusivePctOfStreamable": 68.9,
+      "byService": [
+        {
+          "brand": "Disney+",
+          "exclusives": 2
+        },
+        {
+          "brand": "Netflix",
+          "exclusives": 13
+        },
+        {
+          "brand": "Max",
+          "exclusives": 9
+        },
+        {
+          "brand": "Amazon Prime Video",
+          "exclusives": 5
+        },
+        {
+          "brand": "Paramount+",
+          "exclusives": 5
+        },
+        {
+          "brand": "Apple TV+",
+          "exclusives": 8
+        },
+        {
+          "brand": "AMC+",
+          "exclusives": 2
+        },
+        {
+          "brand": "Peacock",
+          "exclusives": 3
+        },
+        {
+          "brand": "Starz",
+          "exclusives": 2
+        },
+        {
+          "brand": "MGM+",
+          "exclusives": 1
+        },
+        {
+          "brand": "BritBox",
+          "exclusives": 1
+        }
+      ]
+    },
+    "monetization": {
+      "anySubscriptionPct": 74,
+      "rentBuyOnly": 4,
+      "rentBuyOnlyPct": 4,
+      "cinemaOnly": 6,
+      "cinemaOnlyPct": 6,
+      "adReachable": 27,
+      "adReachablePct": 27
+    },
+    "movieVsShow": {
+      "movies": {
+        "n": 50,
+        "withSub": 25,
+        "withSubPct": 50
+      },
+      "shows": {
+        "n": 50,
+        "withSub": 49,
+        "withSubPct": 98
+      }
+    },
+    "byService": [
+      {
+        "brand": "Disney+",
+        "titles": 15,
+        "exclusives": 2,
+        "hasAdTier": true
+      },
+      {
+        "brand": "Netflix",
+        "titles": 15,
+        "exclusives": 13,
+        "hasAdTier": true
+      },
+      {
+        "brand": "Max",
+        "titles": 14,
+        "exclusives": 9,
+        "hasAdTier": true
+      },
+      {
+        "brand": "Hulu",
+        "titles": 13,
+        "exclusives": 0,
+        "hasAdTier": true
+      },
+      {
+        "brand": "Amazon Prime Video",
+        "titles": 13,
+        "exclusives": 5,
+        "hasAdTier": true
+      },
+      {
+        "brand": "Paramount+",
+        "titles": 8,
+        "exclusives": 5,
+        "hasAdTier": true
+      },
+      {
+        "brand": "Apple TV+",
+        "titles": 8,
+        "exclusives": 8,
+        "hasAdTier": false
+      },
+      {
+        "brand": "AMC+",
+        "titles": 7,
+        "exclusives": 2,
+        "hasAdTier": true
+      },
+      {
+        "brand": "Peacock",
+        "titles": 6,
+        "exclusives": 3,
+        "hasAdTier": true
+      },
+      {
+        "brand": "Starz",
+        "titles": 3,
+        "exclusives": 2,
+        "hasAdTier": false
+      },
+      {
+        "brand": "MGM+",
+        "titles": 2,
+        "exclusives": 1,
+        "hasAdTier": false
+      },
+      {
+        "brand": "Criterion Channel",
+        "titles": 1,
+        "exclusives": 0,
+        "hasAdTier": null
+      },
+      {
+        "brand": "Shudder",
+        "titles": 1,
+        "exclusives": 0,
+        "hasAdTier": false
+      },
+      {
+        "brand": "BritBox",
+        "titles": 1,
+        "exclusives": 1,
+        "hasAdTier": false
+      }
+    ],
+    "overlap": {
+      "brands": [
+        "Disney+",
+        "Netflix",
+        "Max",
+        "Hulu",
+        "Amazon Prime Video",
+        "Paramount+",
+        "Apple TV+",
+        "AMC+"
+      ],
+      "matrix": [
+        {
+          "brand": "Disney+",
+          "row": [
+            15,
+            0,
+            2,
+            13,
+            1,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "brand": "Netflix",
+          "row": [
+            0,
+            15,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "brand": "Max",
+          "row": [
+            2,
+            0,
+            14,
+            2,
+            2,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "brand": "Hulu",
+          "row": [
+            13,
+            0,
+            2,
+            13,
+            1,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "brand": "Amazon Prime Video",
+          "row": [
+            1,
+            1,
+            2,
+            1,
+            13,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "brand": "Paramount+",
+          "row": [
+            2,
+            0,
+            0,
+            2,
+            2,
+            8,
+            0,
+            0
+          ]
+        },
+        {
+          "brand": "Apple TV+",
+          "row": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            8,
+            0
+          ]
+        },
+        {
+          "brand": "AMC+",
+          "row": [
+            1,
+            1,
+            2,
+            1,
+            3,
+            0,
+            0,
+            7
+          ]
+        }
+      ]
+    },
+    "cost": {
+      "basketAdsMonthly": 109.9,
+      "basketAdfreeMonthly": 152.4,
+      "basketAdfreeYearly": 1828.8,
+      "big4AdsMonthly": 41,
+      "big4AdfreeMonthly": 69.5,
+      "pricedBrands": [
+        "Disney+",
+        "Netflix",
+        "Max",
+        "Amazon Prime Video",
+        "Apple TV+",
+        "Paramount+",
+        "Peacock",
+        "Starz",
+        "AMC+",
+        "MGM+",
+        "BritBox"
+      ],
+      "unpricedBrands": [],
+      "priceTable": {
+        "Netflix": {
+          "ads": 8.99,
+          "adfree": 19.99
+        },
+        "Disney+": {
+          "ads": 11.99,
+          "adfree": 18.99
+        },
+        "Hulu": {
+          "ads": 11.99,
+          "adfree": 18.99
+        },
+        "Max": {
+          "ads": 10.99,
+          "adfree": 18.49
+        },
+        "Amazon Prime Video": {
+          "ads": 8.99,
+          "adfree": 11.99
+        },
+        "Apple TV+": {
+          "ads": null,
+          "adfree": 12.99
+        },
+        "Paramount+": {
+          "ads": 8.99,
+          "adfree": 13.99
+        },
+        "Peacock": {
+          "ads": 10.99,
+          "adfree": 16.99
+        },
+        "Starz": {
+          "ads": null,
+          "adfree": 11.99
+        },
+        "AMC+": {
+          "ads": 7.99,
+          "adfree": 10.99
+        },
+        "Crunchyroll": {
+          "ads": null,
+          "adfree": 9.99
+        },
+        "MGM+": {
+          "ads": null,
+          "adfree": 6.99
+        },
+        "BritBox": {
+          "ads": null,
+          "adfree": 8.99
+        },
+        "Shudder": {
+          "ads": null,
+          "adfree": 6.99
+        }
+      }
+    },
+    "titlesSample": [
+      {
+        "title": "Project Hail Mary",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "Obsession",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "Backrooms",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "Send Help",
+        "year": 2026,
+        "type": "movie",
+        "services": [
+          "Disney+",
+          "Hulu"
+        ],
+        "exclusive": false
+      },
+      {
+        "title": "Hokum",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "Good Luck, Have Fun, Don't Die",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "The Super Mario Galaxy Movie",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "Tom Clancy's Jack Ryan: Ghost War",
+        "year": 2026,
+        "type": "movie",
+        "services": [
+          "Amazon Prime Video"
+        ],
+        "exclusive": true
+      },
+      {
+        "title": "Remarkably Bright Creatures",
+        "year": 2026,
+        "type": "movie",
+        "services": [
+          "Netflix"
+        ],
+        "exclusive": true
+      },
+      {
+        "title": "Hoppers",
+        "year": 2026,
+        "type": "movie",
+        "services": [
+          "Disney+"
+        ],
+        "exclusive": true
+      },
+      {
+        "title": "The Housemaid",
+        "year": 2025,
+        "type": "movie",
+        "services": [
+          "Starz"
+        ],
+        "exclusive": true
+      },
+      {
+        "title": "Disclosure Day",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "In the Grey",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "The Sheep Detectives",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "Michael",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "Over Your Dead Body",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "The Drama",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "The Devil Wears Prada 2",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "Ready or Not: Here I Come",
+        "year": 2026,
+        "type": "movie",
+        "services": [],
+        "exclusive": false
+      },
+      {
+        "title": "Marty Supreme",
+        "year": 2025,
+        "type": "movie",
+        "services": [
+          "Max"
+        ],
+        "exclusive": true
+      }
+    ],
+    "unmappedShorts": [],
+    "ottUnknownBrands": []
+  },
+  "titles": [
+    {
+      "id": "tm1486587",
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1674759",
+      "title": "Obsession",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1593183",
+      "title": "Backrooms",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1598352",
+      "title": "Send Help",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1925040",
+      "title": "Hokum",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1602729",
+      "title": "Good Luck, Have Fun, Don't Die",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1457585",
+      "title": "The Super Mario Galaxy Movie",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1978067",
+      "title": "Tom Clancy's Jack Ryan: Ghost War",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1941661",
+      "title": "Remarkably Bright Creatures",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1520393",
+      "title": "Hoppers",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1544080",
+      "title": "The Housemaid",
+      "year": 2025,
+      "type": "movie"
+    },
+    {
+      "id": "tm1526979",
+      "title": "Disclosure Day",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1453013",
+      "title": "In the Grey",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1610095",
+      "title": "The Sheep Detectives",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1436931",
+      "title": "Michael",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1856965",
+      "title": "Over Your Dead Body",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1591329",
+      "title": "The Drama",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1635677",
+      "title": "The Devil Wears Prada 2",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1645069",
+      "title": "Ready or Not: Here I Come",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1576989",
+      "title": "Marty Supreme",
+      "year": 2025,
+      "type": "movie"
+    },
+    {
+      "id": "tm97234",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977,
+      "type": "movie"
+    },
+    {
+      "id": "tm1875155",
+      "title": "They Will Kill You",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1433295",
+      "title": "Star Wars: The Mandalorian and Grogu",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1459877",
+      "title": "One Battle After Another",
+      "year": 2025,
+      "type": "movie"
+    },
+    {
+      "id": "tm32004",
+      "title": "The Devil Wears Prada",
+      "year": 2006,
+      "type": "movie"
+    },
+    {
+      "id": "tm1616046",
+      "title": "Exit 8",
+      "year": 2025,
+      "type": "movie"
+    },
+    {
+      "id": "tm1932581",
+      "title": "Apex",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1458418",
+      "title": "The Bride!",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1504418",
+      "title": "Bugonia",
+      "year": 2025,
+      "type": "movie"
+    },
+    {
+      "id": "tm1542567",
+      "title": "The Running Man",
+      "year": 2025,
+      "type": "movie"
+    },
+    {
+      "id": "tm1506526",
+      "title": "Mortal Kombat II",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1314959",
+      "title": "The Ministry of Ungentlemanly Warfare",
+      "year": 2024,
+      "type": "movie"
+    },
+    {
+      "id": "tm1352761",
+      "title": "Scream 7",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1952326",
+      "title": "Pressure",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1656509",
+      "title": "No Other Choice",
+      "year": 2025,
+      "type": "movie"
+    },
+    {
+      "id": "tm1510509",
+      "title": "Lee Cronin's The Mummy",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm2861790",
+      "title": "The Crash",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1625454",
+      "title": "The Punisher: One Last Kill",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1674486",
+      "title": "Normal",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1384752",
+      "title": "Iron Lung",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1942487",
+      "title": "Ladies First",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1591341",
+      "title": "Pillion",
+      "year": 2025,
+      "type": "movie"
+    },
+    {
+      "id": "tm2867265",
+      "title": "Office Romance",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1673707",
+      "title": "The Furious",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1899901",
+      "title": "Shelter",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm9008",
+      "title": "Cape Fear",
+      "year": 1991,
+      "type": "movie"
+    },
+    {
+      "id": "tm1276703",
+      "title": "Nirvanna the Band the Show the Movie",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm157099",
+      "title": "Interstellar",
+      "year": 2014,
+      "type": "movie"
+    },
+    {
+      "id": "tm1663979",
+      "title": "Dead Man's Wire",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "tm1663575",
+      "title": "Tuner",
+      "year": 2026,
+      "type": "movie"
+    },
+    {
+      "id": "ts446463",
+      "title": "Widow's Bay",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts381440",
+      "title": "Spider-Noir",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts404091",
+      "title": "The Boroughs",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts175387",
+      "title": "Off Campus",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts287292",
+      "title": "FROM",
+      "year": 2022,
+      "type": "show"
+    },
+    {
+      "id": "ts495715",
+      "title": "Dutton Ranch",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts78125",
+      "title": "The Boys",
+      "year": 2019,
+      "type": "show"
+    },
+    {
+      "id": "ts414509",
+      "title": "Your Friends & Neighbors",
+      "year": 2025,
+      "type": "show"
+    },
+    {
+      "id": "ts87074",
+      "title": "Euphoria",
+      "year": 2019,
+      "type": "show"
+    },
+    {
+      "id": "ts470832",
+      "title": "Maximum Pleasure Guaranteed",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts459331",
+      "title": "Cape Fear",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts418584",
+      "title": "The Four Seasons",
+      "year": 2025,
+      "type": "show"
+    },
+    {
+      "id": "ts20233",
+      "title": "Rick and Morty",
+      "year": 2013,
+      "type": "show"
+    },
+    {
+      "id": "ts287233",
+      "title": "Hacks",
+      "year": 2021,
+      "type": "show"
+    },
+    {
+      "id": "ts419484",
+      "title": "Margo's Got Money Troubles",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts433871",
+      "title": "The Pitt",
+      "year": 2025,
+      "type": "show"
+    },
+    {
+      "id": "ts89431",
+      "title": "For All Mankind",
+      "year": 2019,
+      "type": "show"
+    },
+    {
+      "id": "ts216539",
+      "title": "Love Island",
+      "year": 2019,
+      "type": "show"
+    },
+    {
+      "id": "ts75269",
+      "title": "Yellowstone",
+      "year": 2018,
+      "type": "show"
+    },
+    {
+      "id": "ts76847",
+      "title": "The Terror",
+      "year": 2018,
+      "type": "show"
+    },
+    {
+      "id": "ts421489",
+      "title": "Paradise",
+      "year": 2025,
+      "type": "show"
+    },
+    {
+      "id": "ts363990",
+      "title": "Rivals",
+      "year": 2024,
+      "type": "show"
+    },
+    {
+      "id": "ts429003",
+      "title": "Star City",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts440297",
+      "title": "Rooster",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts521198",
+      "title": "World War II with Tom Hanks",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts7043",
+      "title": "America's Got Talent",
+      "year": 2006,
+      "type": "show"
+    },
+    {
+      "id": "ts450685",
+      "title": "The Beauty",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts20974",
+      "title": "The X-Files",
+      "year": 1993,
+      "type": "show"
+    },
+    {
+      "id": "ts457704",
+      "title": "Legends",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts454451",
+      "title": "Lord of the Flies",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts296827",
+      "title": "Interview with the Vampire",
+      "year": 2022,
+      "type": "show"
+    },
+    {
+      "id": "ts480880",
+      "title": "The Testaments",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts455747",
+      "title": "The Other Bennet Sister",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts20837",
+      "title": "Outlander",
+      "year": 2014,
+      "type": "show"
+    },
+    {
+      "id": "ts6410",
+      "title": "Doctor Who",
+      "year": 2005,
+      "type": "show"
+    },
+    {
+      "id": "ts446649",
+      "title": "The Audacity",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts174637",
+      "title": "Not Suitable for Work",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts386460",
+      "title": "A Knight of the Seven Kingdoms",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts296145",
+      "title": "Beef",
+      "year": 2023,
+      "type": "show"
+    },
+    {
+      "id": "ts393161",
+      "title": "Pluribus",
+      "year": 2025,
+      "type": "show"
+    },
+    {
+      "id": "ts22013",
+      "title": "Mad Men",
+      "year": 2007,
+      "type": "show"
+    },
+    {
+      "id": "ts438726",
+      "title": "Half Man",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts21465",
+      "title": "Supernatural",
+      "year": 2005,
+      "type": "show"
+    },
+    {
+      "id": "ts265779",
+      "title": "Fallout",
+      "year": 2024,
+      "type": "show"
+    },
+    {
+      "id": "ts379403",
+      "title": "A Good Girl's Guide to Murder",
+      "year": 2024,
+      "type": "show"
+    },
+    {
+      "id": "ts6683",
+      "title": "Battlestar Galactica",
+      "year": 2004,
+      "type": "show"
+    },
+    {
+      "id": "ts6495",
+      "title": "Criminal Minds",
+      "year": 2005,
+      "type": "show"
+    },
+    {
+      "id": "ts526545",
+      "title": "Alice and Steve",
+      "year": 2026,
+      "type": "show"
+    },
+    {
+      "id": "ts329867",
+      "title": "Landman",
+      "year": 2024,
+      "type": "show"
+    },
+    {
+      "id": "ts529914",
+      "title": "The Vampire Lestat",
+      "year": 2026,
+      "type": "show"
+    }
+  ]
+}
