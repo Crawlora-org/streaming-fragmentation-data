@@ -1,8 +1,10 @@
 {
-  "generatedNote": "collected via scripts/streaming-fragmentation-study.mjs",
+  "source": "Crawlora Streaming Fragmentation Index",
   "snapshotDate": "2026-06-17",
   "country": "US",
-  "apiBase": "https://api.crawlora.net/api/v1",
+  "homepage": "https://crawlora.net/blog/streaming-fragmentation-2026",
+  "repository": "https://github.com/Crawlora-org/streaming-fragmentation-data",
+  "license": "CC-BY-4.0",
   "providerCount": 338,
   "scope": "broad-5047",
   "stats": {

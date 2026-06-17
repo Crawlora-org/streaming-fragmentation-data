@@ -20,7 +20,6 @@ to the service behind it.
 | `data/broad-titles.csv` | 5,047 | per-title availability for the ~5,000-title cross-section |
 | `data/popular-summary.json` | — | aggregates for popular-100 (fragmentation, exclusivity, monetization, overlap, cost) |
 | `data/broad-summary.json` | — | aggregates for the broad corpus |
-| `streaming-fragmentation-study.mjs` | — | the generation script (reproducible; Crawlora JustWatch REST API) |
 
 ### CSV schema (one row per title)
 
@@ -63,8 +62,9 @@ bundle (vMVPD) / free ad-supported channel (FAST) / single-network cable-login a
 (TVOD) / cinema** — and ad-tier, quality (SD/HD/4K), and reseller-channel ("… Apple TV/Amazon Channel")
 variants are collapsed to the parent brand. "Subscriptions needed" counts only standalone retail
 streaming services; a greedy set-cover gives the fewest services to reach 50/80/100% of the streamable
-titles. Subscription prices are US list prices (mid-2026), the one input not from JustWatch. The full
-classification logic is in [`streaming-fragmentation-study.mjs`](streaming-fragmentation-study.mjs).
+titles. Subscription prices are US list prices (mid-2026), the one input not from JustWatch. The data comes
+from [Crawlora's JustWatch API](https://crawlora.net/docs/justwatch); the [study writeup](https://crawlora.net/blog/streaming-fragmentation-2026)
+documents the full method.
 
 ## Caveats
 
