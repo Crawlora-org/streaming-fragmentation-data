@@ -8,7 +8,7 @@ exclusive, and expensive that has become. Two open snapshots (June 2026):
 - **Broad ~5,000** — a **5,047-title cross-section** pulled across every genre and decade.
 
 It is the dataset behind the Crawlora study **["How Many Streaming Subscriptions Do You Need
-in 2026?"](https://crawlora.net/blog/streaming-fragmentation-2026)**. Every title's full list
+in 2026?"](https://crawlora.net/blog/streaming-fragmentation-2026?utm_source=github&utm_medium=referral&utm_campaign=streaming-fragmentation-2026)**. Every title's full list
 of ways-to-watch (offers) was pulled via Crawlora's JustWatch endpoints and each offer mapped
 to the service behind it.
 
@@ -63,7 +63,7 @@ bundle (vMVPD) / free ad-supported channel (FAST) / single-network cable-login a
 variants are collapsed to the parent brand. "Subscriptions needed" counts only standalone retail
 streaming services; a greedy set-cover gives the fewest services to reach 50/80/100% of the streamable
 titles. Subscription prices are US list prices (mid-2026), the one input not from JustWatch. The data comes
-from [Crawlora's JustWatch API](https://crawlora.net/docs/justwatch); the [study writeup](https://crawlora.net/blog/streaming-fragmentation-2026)
+from [Crawlora's JustWatch API](https://crawlora.net/docs/justwatch?utm_source=github&utm_medium=referral&utm_campaign=streaming-fragmentation-2026); the [study writeup](https://crawlora.net/blog/streaming-fragmentation-2026?utm_source=github&utm_medium=referral&utm_campaign=streaming-fragmentation-2026)
 documents the full method.
 
 ## Caveats
@@ -96,5 +96,5 @@ Plain text:
 ## License
 
 Data is licensed **CC BY 4.0** — free to use, share and adapt with attribution to **Crawlora**
-(https://crawlora.net), a link to this repository, and an indication of changes. See [`LICENSE`](LICENSE).
-Generated with [Crawlora's JustWatch API](https://crawlora.net/docs/justwatch).
+([https://crawlora.net](https://crawlora.net?utm_source=github&utm_medium=referral&utm_campaign=streaming-fragmentation-2026)), a link to this repository, and an indication of changes. See [`LICENSE`](LICENSE).
+Generated with [Crawlora's JustWatch API](https://crawlora.net/docs/justwatch?utm_source=github&utm_medium=referral&utm_campaign=streaming-fragmentation-2026).
